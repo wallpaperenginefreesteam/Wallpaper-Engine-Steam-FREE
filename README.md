@@ -3,7 +3,6 @@
 **Wallpaper Engine** free desktop build - live wallpaper, audio visualizer, workshop-style library for Windows 10/11. 4K video, anime, RGB sync (Razer / iCUE / Hue), multi-monitor. Steam optional; this zip is the desktop app.
 
 <img width="800" height="250" alt="images1" src="https://github.com/user-attachments/assets/bb1d8bcf-5cc1-4f6e-a83d-f8fd49987591" />
-<img width="1280" height="720" alt="images2" src="https://github.com/user-attachments/assets/e301bab6-ce8d-44a8-bb29-00b93ad36259" />
 
 
 Unpack, run. Windows 10/11. Import workshop-format packs or drop MP4 / HTML into the library folder.
